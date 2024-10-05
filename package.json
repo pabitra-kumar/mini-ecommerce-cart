@@ -1,0 +1,16 @@
+{
+  "name": "mini-ecommerce-cart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mini-ecommerce-cart": "file:",
+    "nodemon": "^3.1.7"
+  }
+}
